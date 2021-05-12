@@ -4,7 +4,7 @@ sample <- read.csv(file = 'Social_Impact_Research_Initiative_2021_05_10_20_29_12
 
 
 # rename
-write.csv(sample, "FD_5_10_2021.csv", row.names = FALSE)
+write.csv(sample, "FD_5_11_2021.csv", row.names = FALSE)
 # variables 
 # [1] "seen_total"      "question_6_pre"  "question_2_pre"  "question_4_pre"  "question_1_pre"  "question_3_pre"  "question_5_pre"  "engagement"      "survey_type"     "quiz_answer"    
 # [11] "engagement_1"    "engagement_3"    "engagement_2"    "question_2_post" "question_3_post" "question_5_post" "question_6_post" "question_1_post" "question_4_post" "demo_gender"    
